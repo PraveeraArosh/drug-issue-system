@@ -21,6 +21,7 @@
                             <input type="checkbox">Drug 2</label> <br>
                     </div>
                     <button type="submit" class="btn btn-primary">Add</button>
+                    <a href="drug_list.php"><button class="btn btn-danger">Cancel</button></a>
                 </div>
             </div>
         </div>
