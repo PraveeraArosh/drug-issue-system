@@ -26,6 +26,7 @@
                     <label>Remarks</label>
                     <input type="text" class="form-control">
                     <button type="button" class="btn btn-primary" style="margin-top: 11px; position: static; display: inline-block; float: right;">Save Details</button>
+                    <a class="btn btn-danger" style="margin-top: 11px; position: static; display: inline-block; float: left;" href="drug_list.php">Cancel</a>
                 </div>
                 </div>
             </div>
