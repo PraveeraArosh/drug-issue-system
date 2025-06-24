@@ -42,6 +42,7 @@
                             <tr>
                                 <th>Dosage</th>
                                 <th>Frquency</th>
+                                <th>Route</th>
                                 <th>Remark</th>
                                 <th>Time</th>
                             </tr>

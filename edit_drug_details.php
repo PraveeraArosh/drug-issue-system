@@ -23,6 +23,10 @@
                     <input type="text" class="form-control">
                 </div>
                 <div class="form-group">
+                    <label>Route</label>
+                    <input type="text" class="form-control">
+                </div>
+                <div class="form-group">
                     <label>Remarks</label>
                     <input type="text" class="form-control">
                     <button type="button" class="btn btn-primary" style="margin-top: 11px; position: static; display: inline-block; float: right;">Save Details</button>
