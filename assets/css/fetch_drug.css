@@ -15,6 +15,13 @@
     align-items: start;
     align-content: start;
     flex-wrap: nowrap;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    z-index: 1000;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .drug-item {

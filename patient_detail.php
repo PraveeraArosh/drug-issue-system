@@ -26,10 +26,16 @@
             </div>
             <div class="form-group">
               <label>Alergies :</label>
-              <input type="text" class="form-control">
             </div>
             <div class="form-group">
               <label>Remark :</label>
+            </div>
+            <div class="form-group">
+              <label>Add Alergies :</label>
+              <input type="text" class="form-control">
+            </div>
+            <div class="form-group">
+              <label>Add Remark :</label>
               <input type="text" class="form-control">
             </div>
             <a href="drug_list.php"><button type="button" class="btn btn-primary" style="float: left;">Back to Drug List</button></a>
