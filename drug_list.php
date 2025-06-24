@@ -13,8 +13,10 @@
 <body>
   <div class="container">
     <div class="header">
-      <a href="patient_detail.php"><button class="patient-details-btn">Patient Details</button></a>
-      <a href="add_eme_drug.php"><button class="add-emergency-btn">Add Emergency Drugs</button></a>
+      <a href="ward_details.php"><button class="btn btn-info">Back to Ward</button></a>
+      <a href="bhtsearch.php"><button class="btn btn-warning">BHT Search</button></a>
+      <a href="patient_detail.php"><button class="btn btn-primary">Patient Details</button></a>
+      <a href="add_eme_drug.php"><button class="btn btn-danger">Add Emergency Drugs</button></a>
     </div>
 
     <h2>Drug List</h2>

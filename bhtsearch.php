@@ -19,6 +19,7 @@
           </div>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
+        <a href="ward_details.php" class="btn btn-secondary">Back to Ward</a>
       </div>
     </div>
   </div>

@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-  <title>Document</title>
+  <title>Patient Details</title>
 </head>
 
 <body>
@@ -26,8 +26,14 @@
             </div>
             <div class="form-group">
               <label>Alergies :</label>
+              <input type="text" class="form-control">
             </div>
-            <a href="drug_list.php"><button type="button" class="btn btn-primary" style="float: right;">Back to Drug List</button></a>
+            <div class="form-group">
+              <label>Remark :</label>
+              <input type="text" class="form-control">
+            </div>
+            <a href="drug_list.php"><button type="button" class="btn btn-primary" style="float: left;">Back to Drug List</button></a>
+            <a href="#"><button type="button" class="btn btn-success" style="float: right;">Save Details</button></a>
           </div>
         </div>
       </div>

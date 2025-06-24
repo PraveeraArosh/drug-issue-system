@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/drug_details.css">
-    <title>Document</title>
+    <title>Drug details Log</title>
 </head>
 
 <body>
@@ -19,7 +19,6 @@
                     <p>Total dosage given :</p>
                     <p>Remaining quantity :</p>
                     <p>Next Due :</p>
-                    <p>Given History</p>
                     <p>Given History</p>
                     <table class="table">
                         <thead>
